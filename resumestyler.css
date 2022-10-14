@@ -4,18 +4,18 @@ body{
     margin-right: 10%;
 }
 img.hover{
-    background-color: blue;
+    background-color: #4348f4;
 }
 .id{
-    background-color: black;
+    background-color: #040407;
     border-radius: 100%;
 }
 hr{
-   background-color:blue;
+   background-color:#4348f4;
 }
 h2{
-    color: blue;
+    color: #4348f4;
 }
 #name{
-    color: black;
+    color:#040407;
 }
